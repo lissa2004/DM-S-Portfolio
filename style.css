@@ -6,9 +6,9 @@
   }
   
    .banner-wrap {
-    background-image: url(./assets/Dineo\ Makhata.jpg);
+    background-image: url(./assets/download.jpeg);
     background-repeat: no-repeat;
-    background-size:40%;
+    background-size:cover;
     background-position: center;
     position: relative;
     z-index: 1;
@@ -20,7 +20,7 @@
     width: 100%;
     background: black;
     position: absolute;
-    opacity: 50%;
+  opacity: 50%;
     top:0
 }
 
